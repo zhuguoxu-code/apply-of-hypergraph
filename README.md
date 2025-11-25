@@ -9,20 +9,20 @@
 ### 项目推荐<br>
 * HMKRec: Optimize multi-user representation by hypergraph motifs for knowledge-aware recommendation(sciencedirect,2025)隐式关系网络[**paper**](https://www.sciencedirect.com/science/article/pii/S0952197625004415)<br>
 * Scientific collaborator recommendation via hypergraph embedding合著者推荐2025[**paper**](https://www.sciencedirect.com/science/article/pii/S0306457325003644)<br>
-* Online Course Recommendation with Hypergraph-based Multi-Channel Feature Fusion2023(https://dl.acm.org/doi/10.1145/3641584.3641809)<br>
-* Structural hole-based heterogeneous hypergraph for group recommendation群组推荐(https://www.sciencedirect.com/science/article/pii/S0957417425016173)<br>
+* Online Course Recommendation with Hypergraph-based Multi-Channel Feature Fusion2023[**paper**](https://dl.acm.org/doi/10.1145/3641584.3641809)<br>
+* Structural hole-based heterogeneous hypergraph for group recommendation群组推荐[**paper**](https://www.sciencedirect.com/science/article/pii/S0957417425016173)<br>
 * Diversified recommendation with weighted hypergraph embedding: Case study in music超图嵌入多样化推荐2024[**paper**](https://www.sciencedirect.com/science/article/pii/S092523122401676X)<br>
 * Motifs-based recommender system via hypergraph convolution and contrastive learning基于主题的推荐2022[**paper**](https://www.sciencedirect.com/science/article/pii/S0925231222011948)<br>
 * Q&A driven conversational recommendation integrating multiple interest modeling会话推荐，2025[**paper**](https://www.sciencedirect.com/science/article/pii/S0925231225012366)<br><br>
-* Adaptive Personalized Recommendation Systems: A systematic Review无超图，2025(https://www.sciencedirect.com/science/article/pii/S030643792500078X)<br>
+* Adaptive Personalized Recommendation Systems: A systematic Review无超图2025[**paper**](https://www.sciencedirect.com/science/article/pii/S030643792500078X)<br>
 * Enhancing knowledge tracing through course map and question difficulty analysis知识追踪[**paper**](https://www.sciencedirect.com/science/article/pii/S259000562500150X)<br>
 
 
 ### education <br>
 * Intelligent recommendation system for College English courses based on graph convolutional networks图卷积网络，课程2024[**paper**](https://www.sciencedirect.com/science/article/pii/S2405844024050837)<br>
 * Meta-path Sampling-Enhanced Course Recommendation in Heterogeneous Networks异构网络，课程2025[**paper**](https://www.sciencedirect.com/science/article/pii/S0306457325004236)<br>
-* Personalized Learning Resources Recommendation Based on Improved Attention Mechanism in Intelligent Online Education System教育系统资源推荐2025(https://dl.acm.org/doi/10.1145/3759179.3759268)<br>
-* Personalized Learning Path Optimization Model for Financial Management Courses Based on Graph Neural Networks and Reinforcement Learning在线平台2025(https://dl.acm.org/doi/10.1145/3766918.3766984)<br>
+* Personalized Learning Resources Recommendation Based on Improved Attention Mechanism in Intelligent Online Education System教育系统资源推荐2025[**paper**](https://dl.acm.org/doi/10.1145/3759179.3759268)<br>
+* Personalized Learning Path Optimization Model for Financial Management Courses Based on Graph Neural Networks and Reinforcement Learning在线平台2025[**paper**](https://dl.acm.org/doi/10.1145/3766918.3766984)<br>
 * MRTI-CR: A model based on multi-relationship and time-aware interest for personalized course recommendation课程2025[**paper**](https://www.sciencedirect.com/science/article/pii/S0952197625015623)<br>
 * A personalized educational resource recommendation method based on graph neural network在线教育平台 学习则会-资源交互图[**paper**](https://dl.acm.org/doi/10.1145/3744367.3744414)<br>
 * Research on Personalized Path Recommendation in Ideological
